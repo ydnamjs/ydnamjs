@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello
+My name is Michael Snead
+
+I'm a Computer Scientist and Software Developer
+
+## About
+Check out my website for info about me: https://ydnamjs.github.io/personal-website/
 
 <!--
 **ydnamjs/ydnamjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
