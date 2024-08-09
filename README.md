@@ -1,7 +1,7 @@
 ## Hello
-My name is Michael Snead
+My name is Michael Snead (he/him/his)
 
-I'm a Computer Scientist and Software Developer
+I like programming and games
 
 ## About
 Check out my website for info about me: https://ydnamjs.github.io/personal-website/
